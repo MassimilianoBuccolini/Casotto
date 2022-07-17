@@ -1,0 +1,53 @@
+api request interfaces
+
+models : data format
+
+services : logic
+
+dao : database
+
+
+
+@Controller
+controllers . get output
+
+@GetMapping("/")
+return "html_file_name";
+
+localhost:8080
+
+
+not rest api
+map to html file
+
+templates
+home.html
+
+
+Model
+fetch data to put in the html
+model.addAttribute("name","name")
+
+value ="/save" , method = RequestMethod.POST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

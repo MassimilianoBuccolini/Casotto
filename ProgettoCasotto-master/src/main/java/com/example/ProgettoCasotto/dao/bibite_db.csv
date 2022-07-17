@@ -1,0 +1,4 @@
+ID,nome,prezzo,alcolico,quantità
+001,Acqua,0.99,false,6
+002,Vodka,2,true,4
+003,Gassosa,1.50,false,5
